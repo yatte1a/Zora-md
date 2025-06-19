@@ -9,11 +9,9 @@
 <div align="center">
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
-</p>
 
-> **Current Bot Version `5.0.0`**  
+
+> **Current Bot Version `1.0.0`**  
 
 ---
 
