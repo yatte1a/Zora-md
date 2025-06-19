@@ -106,7 +106,7 @@
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j">
+  <a href="https://whatsapp.com/channel/0029VbAQl4Z2975Had3DuC42">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
@@ -126,12 +126,6 @@
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
-## 🗃️ PROJECT ARCHITECTS
-<div align="center">
-  <a href="https://github.com/JawadYT36">
-    <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
