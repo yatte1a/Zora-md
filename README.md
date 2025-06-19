@@ -52,22 +52,14 @@
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
 --- 
-> **PAIRING LINK (01)**
-  <a href='https://khanxmd.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+> **OUR OFFICIAL SITE LINK (01)**
+  <a href='https://mrck-dev.onrender.com' target="_blank">
+    <img src='https://img.shields.io/badge/VISIT_SITE_NOW-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
-> **PAIRiNG LINK (02)**
-  <a href='https://jawadxmd.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
 
-  > **QR LINK (03)**
-  <a href='https://jawadxmd.onrender.com/qr' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_3-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
