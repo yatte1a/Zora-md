@@ -11,7 +11,7 @@
 
 
 
-> **Current Bot Version `1.0.0`**  
+> **Current Bot Version `beta-beta`**  
 
 ---
 
