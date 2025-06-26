@@ -34,6 +34,13 @@
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
+
+<a href="https://github.com/charithZz04"><img src="https://avatars.githubusercontent.com/u/155751506?v=4" width=80 height=80></a> | <a href="https://github.com/rikkqa43"><img src="https://res.cloudinary.com/df2rnoijw/image/upload/v1750912229/lchzt7zkhcpjzesmwwtx.jpg" width=80 height=80></a> |
+|---|---|
+| **[CHARITH](https://github.com/charithZz04)**</br>Founder & Developer | **[RANDUL](https://github.com/rikkqa43)**</br>Co-Developer |
+
+---
+
 ## 🛰️ Deployment Steps
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
