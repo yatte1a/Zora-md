@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.ibb.co/KzcrhG8p/Manul-Ofc-X.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://res.cloudinary.com/df2rnoijw/image/upload/v1750938211/ikz1ccze52jtu9gxlbuj.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
@@ -34,6 +34,7 @@
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
+## 🛰️ BOT DEVELOPERS
 
 <a href="https://github.com/charithZz04"><img src="https://avatars.githubusercontent.com/u/155751506?v=4" width=80 height=80></a> | <a href="https://github.com/rikkqa43"><img src="https://res.cloudinary.com/df2rnoijw/image/upload/v1750912229/lchzt7zkhcpjzesmwwtx.jpg" width=80 height=80></a> |
 |---|---|
